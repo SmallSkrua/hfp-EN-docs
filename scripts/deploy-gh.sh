@@ -10,13 +10,13 @@ npm run build
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
-echo 'blog.project-heartfire.com' > CNAME
+echo 'en.project-heartfire.com' > CNAME
 
 git init
 git add -A
 git commit -m 'deploy'
 
 # 把上面的 <USERNAME> 换成你自己的 Github 用户名，<REPO> 换成仓库名，比如我这里就是：
-git push -f git@github.com:Seayay/hfp-blog-docs.git main:gh-pages
+git push -f git@github.com:Seayay/hfp-EN-docs.git main:gh-pages
 
 cd -
