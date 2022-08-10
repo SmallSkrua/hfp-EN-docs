@@ -19,9 +19,9 @@ jobs:
         uses: jenkey2011/vuepress-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          TARGET_REPO: Heart-Fire-Project/hfp-blog-deploy
+          TARGET_REPO: Heart-Fire-Project/hfp-EN-deploy
           TARGET_BRANCH: main
           BUILD_SCRIPT: yarn && yarn build
           BUILD_DIR: docs/.vuepress/dist/
           COMMIT_MESSAGE: Auto Deploy Success
-          CNAME: blog.project-heartfire.com
+          CNAME: en.project-heartfire.com
