@@ -13,13 +13,9 @@
 
 ### ItsPigeonaua
 
-> No message
-
 [![Web](https://img.shields.io/badge/Website-brightgreen?&style=for-the-badge)](https://www.itspigeonaua.tk/)
 
 ### Beiyao
-
-> No message
 
 ### HeimNad
 
@@ -27,14 +23,26 @@
 
 [![Web](https://img.shields.io/badge/Website-blue?&style=for-the-badge)](https://blog.qhqqi.top/)
 
+### Damutzz
+
 ## Members
 
 ### DenNotFound
 
-> No message
-
 ### David ²⁰²²
 
-> No message
-
 [![Github](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge)](https://github.com/xianyongjian080402)
+
+### IamSGZhenYun
+
+### SmallSkrua
+
+### yuzuki
+
+> i love mizuki
+
+## Links
+
+### TRCloud Studio
+
+[![Click to TRCloud Studio website](https://img.shields.io/badge/TRCloud%20Studio-blue?&style=for-the-badge)](https://www.trcloud.studio)
