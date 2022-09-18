@@ -37,6 +37,8 @@
 
 ### SmallSkrua
 
+> I give my hand to you with all my heart,as men strive for right. Sr&F
+
 ### yuzuki
 
 > i love mizuki
